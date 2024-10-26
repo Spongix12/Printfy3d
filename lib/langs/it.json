@@ -1,0 +1,46 @@
+{
+  "title": "Ciao Mondo",
+  "welcome": "Benvenuto su Printfy3D!",
+  "subtitle": "Trasforma la tua creatività in realtà",
+  "switch_language": "Passa all'inglese",
+  "products": "Prodotti",
+  "contactus": "Contattaci",
+
+  "i_nostri_prodotti": "I Nostri Prodotti",
+  "portachiavi_personalizzati": "Portachiavi Personalizzati",
+  "crea_portachiavi_unico": "Crea portachiavi unici con incisioni.",
+  "dettagli_portachiavi_personalizzati": "Portachiavi personalizzati realizzati con materiali di alta qualità, perfetti per regali o souvenir.",
+  "portachiavi_serie_preferite": "Portachiavi delle Tue Serie Preferite",
+  "riproduci_personaggi": "Riproduci personaggi delle tue serie TV preferite.",
+  "dettagli_portachiavi_serie": "Portachiavi con i tuoi personaggi preferiti, realizzati con grande attenzione ai dettagli.",
+  "portachiavi_spotify": "Portachiavi Spotify",
+  "ascolta_canone_preferita": "Ascolta la tua canzone preferita con un codice Spotify.",
+  "dettagli_portachiavi_spotify": "Un portachiavi che ti permette di ascoltare la tua canzone preferita scansionando un codice.",
+  "lampade_personalizzate": "Lampade Personalizzate dei Cartoni Animati",
+  "lampade_cartoni_animati": "Lampade personalizzate con personaggi dei tuoi cartoni animati preferiti.",
+  "dettagli_lampade_personalizzate": "Lampade personalizzate che danno vita ai tuoi personaggi preferiti dei cartoni animati, perfette per decorare la casa.",
+  "nessun_prodotto_disponibile": "Nessun prodotto disponibile.",
+   
+
+  "pezzi_personalizzati": "Pezzi 3D Personalizzabili",
+"pezzi_custom_description": "Discuti le tue idee per pezzi personalizzabili di ogni genere.",
+"dettagli_pezzi_personalizzati": "Pezzi 3D personalizzabili unici per varie applicazioni, realizzati secondo le tue specifiche.",
+
+
+
+  "contact_us": "Contattaci!",
+  "have_questions": "Hai domande? Scrivici!",
+  "your_email": "La tua email",
+  "enter_valid_email": "Inserisci un'email valida",
+  "your_message": "Il tuo messaggio",
+  "write_a_message": "Scrivi un messaggio",
+  "send_email": "Invia Email",
+  "email_sent_success": "Email inviata con successo!",
+  "useful_links": "Link utili:",
+  "support": "Supporto",
+  "email_info": "Email: info@example.com",
+  "contact_whatsapp": "Contattaci su WhatsApp"
+
+
+
+}
