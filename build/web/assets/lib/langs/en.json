@@ -1,0 +1,43 @@
+{
+  "title": "Hello World",
+  "welcome": "Welcome to Printfy3D!",
+  "subtitle": "Turn your creativity into reality",
+  "switch_language": "Switch to Italian",
+  "products": "Products",
+  "contactus": "Contact Us",
+
+  "i_nostri_prodotti": "Our Products",
+  "portachiavi_personalizzati": "Customized Keychains",
+  "crea_portachiavi_unico": "Create unique keychains with engravings.",
+  "dettagli_portachiavi_personalizzati": "Customized keychains made from high-quality materials, perfect for gifts or souvenirs.",
+  "portachiavi_serie_preferite": "Keychains of Your Favorite Series",
+  "riproduci_personaggi": "Reproduce characters from your favorite TV shows.",
+  "dettagli_portachiavi_serie": "Keychains featuring your favorite characters, made with great attention to detail.",
+  "portachiavi_spotify": "Spotify Keychain",
+  "ascolta_canone_preferita": "Listen to your favorite song with a Spotify code.",
+  "dettagli_portachiavi_spotify": "A keychain that lets you listen to your favorite song by scanning a code.",
+  "lampade_personalizzate": "Customized Cartoon Lamps",
+  "lampade_cartoni_animati": "Custom lamps featuring characters from your favorite cartoons.",
+  "dettagli_lampade_personalizzate": "Personalized lamps that bring your favorite cartoon characters to life, perfect for home decor.",
+  "nessun_prodotto_disponibile": "No products available.",
+
+
+  "pezzi_personalizzati": "Customizable 3D Pieces",
+"pezzi_custom_description": "Discuss your ideas for customizable pieces of any kind.",
+"dettagli_pezzi_personalizzati": "Unique customizable 3D pieces for various applications, tailored to your specifications.",
+
+
+
+  "contact_us": "Contact Us!",
+  "have_questions": "Have questions? Write to us!",
+  "your_email": "Your Email",
+  "enter_valid_email": "Enter a valid email",
+  "your_message": "Your Message",
+  "write_a_message": "Write a message",
+  "send_email": "Send Email",
+  "email_sent_success": "Email sent successfully!",
+  "useful_links": "Useful Links:",
+  "support": "Support",
+  "email_info": "Email: info@example.com",
+  "contact_whatsapp": "Contact us on WhatsApp"
+}
